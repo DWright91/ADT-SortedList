@@ -7,6 +7,7 @@ The ADT sorted list inserts and deletes items by their values not their position
 Define a class for an array-based implementation of the ADT sorted list. 
 
 The specification of the class is given as follows:
+
 ListItemType is the type
 // Determines whether this sorted list is empty.
 sortedIsEmpty():boolean
