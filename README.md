@@ -11,23 +11,27 @@ The specification of the class is given as follows:
 ListItemType is the type
 
 // Determines whether this sorted list is empty.
+
 sortedIsEmpty():boolean
 
 // Returns the number of items that are in this sorted list.
+
 sortedGetLength():integer
 
 //Inserts newItem into its proper sorted position in this sorted list.
+
 sortedInsert(newItem:ListItemType) :boolean
 
 // Delete anItem from this sorted list.
+
 sortedRemove(anItem:ListItemType) : boolean
 
-// Sets dataItem to the item at position index of this sorted list, if
-// 0 ≤ index ≤ sortedGetLength(). The list is left unchanged by this operation.
+// Sets dataItem to the item at position index of this sorted list, if 0 ≤ index ≤ sortedGetLength(). The list is left unchanged by this operation.
+
 sortedRetrieve(index:integer, dataItem:ListItemType) : boolean
 
-// Returns the position where anItem belongs or exists in this sorted list. The item
-// anItem and the list are unchanged.
+// Returns the position where anItem belongs or exists in this sorted list. The item anItem and the list are unchanged.
+
 locatePosition(in anItem:ListItemType):integer
 --------------------------------------------------------------------------------------
 Requirements:
