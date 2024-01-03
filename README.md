@@ -39,6 +39,9 @@ sortedRetrieve(index:integer, dataItem:ListItemType) : boolean
 locatePosition(in anItem:ListItemType):integer
 --------------------------------------------------------------------------------------
 Requirements:
+
 a). Write a C++ interface template for the sorted list. 
+
 b). Define the ADT sorted list as a derived class template from the sorted list interface template.
+
 c). Write an application program to test ALL member functions of the ADT sorted list.
