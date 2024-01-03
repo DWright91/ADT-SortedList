@@ -1,6 +1,4 @@
 // Dalton Wright
-// CSCI 301
-// Project2
 // ADTSortedListApp.cpp
 
 #include <iostream>
