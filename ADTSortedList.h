@@ -1,6 +1,4 @@
 // Dalton Wright
-// CSCI 301
-// Project2
 // ADTSortedList.h
 
 // Specification file for the Derived Class.
