@@ -1,7 +1,8 @@
 # ADT-SortedList
+
+
 Purpose: gain an experience to use array to implement the ADT sorted list.
 
-Problem Description:
 One of the most frequently performed computing tasks is the maintenance, in some specified order, of a collection of data. 
 The ADT sorted list inserts and deletes items by their values not their positions, which differs from the ADT list.
 Define a class for an array-based implementation of the ADT sorted list. 
