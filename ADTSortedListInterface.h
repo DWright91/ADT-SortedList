@@ -1,6 +1,4 @@
 // Dalton Wright
-// CSCI 301
-// Project2
 // ADTSortedListInterface.h
 
 // Specification file for the Base Class.
