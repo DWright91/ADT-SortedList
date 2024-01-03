@@ -1,0 +1,42 @@
+#Output
+
+Script started 
+> ADTSortedListApp
+
+This program uses an array to implement the ADT Sorted List: 
+
+Program has successfully added: 10
+Program hasn't successfully added: 11
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+
+Number retrieved successfully from index 7: 7
+The index of searched item 8: 8
+Checking if list is empty, number of items: 0
+The number of items in list: 11
+
+Removing the number 6 from the list...
+0
+1
+2
+3
+4
+5
+7
+8
+9
+10
+
+The number of items in the list after removal: 10
+> ^Dexit
+
+script done
